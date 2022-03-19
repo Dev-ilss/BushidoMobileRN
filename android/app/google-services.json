@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1064290834679",
+    "project_id": "bushidonet-eef9d",
+    "storage_bucket": "bushidonet-eef9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064290834679:android:6bb768d9964dbc5238dbf2",
+        "android_client_info": {
+          "package_name": "com.bushidomobilern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064290834679-cuqdhoad0q1khfdvm9f0slh3mdm1chkh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bushidomobilern",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1064290834679-re4hq979k9lo31t23ahsq227e4juk8ce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhZuhzlj-sKiXqY0byCd-mSZg75YZ4J54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064290834679-re4hq979k9lo31t23ahsq227e4juk8ce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
