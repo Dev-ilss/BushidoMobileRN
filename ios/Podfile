@@ -12,6 +12,8 @@ target 'BushidoMobileRN' do
     :hermes_enabled => false
   )
 
+  pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
+
   target 'BushidoMobileRNTests' do
     inherit! :complete
     # Pods for testing
